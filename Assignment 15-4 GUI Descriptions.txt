@@ -1,0 +1,5 @@
+Health_Monitor: Just three heart sprites that will disappear when the player takes damage - messy but functional, will certainly clean later. However, it's clear what it's meant to be, and it works to communicate what it needs to, so it will work for now
+
+Skill_Icon: A sprite and text, just to show when the player can use a skill again. Text is TextMeshPro UI to work in tandem with the parent canvas object, meant to be debug until better visuals are in place
+
+Minimap_Background: Plain white square to denote where the minimap will fit, to determine sizing to see if it interferes with playability. Not much more is helpful until room generation/transitions are added.
